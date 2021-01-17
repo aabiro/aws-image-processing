@@ -36,7 +36,7 @@ Once server is running go to `http://127.0.0.1:8000/` and upload your photos.
 
 Use `deactivate` to deactivate the virtual environment. 
 
-# AWS Lambda resize function project with Node.js can be found [hare](https://github.com/aabiro/aws-lambda-image-resize "GitHub Repo")
+### AWS Lambda resize function project with Node.js can be found [here](https://github.com/aabiro/aws-lambda-image-resize "GitHub Repo")
 
 * Also, using the Lambda Function included in this repo:
 
